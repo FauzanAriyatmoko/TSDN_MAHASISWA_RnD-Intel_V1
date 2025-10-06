@@ -1,4 +1,4 @@
-# **Prediksi Risiko Diabetes Dan Sistem Rekomendasi Kesehatan**
+# **Pengembangan Sistem Berbasis Machine Learning untuk Prediksi Indikasi Diabetes dan Rekomendasi Perawatan Kesehatan**
 
 ## Originalitas
  Repository berikut merupakan hasil dari Team RnD Intel dan Original dibuat oleh team ini.
